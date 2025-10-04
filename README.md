@@ -44,9 +44,9 @@ Python 3.6 or higher
 ```bash
 git clone https://github.com/yourusername/feminine-city-navigation.git
 cd feminine-city-navigation
-
 2. Run the application:
 python city_navigation.py
+
 
 ## 🔮 Future Enhancements
 
