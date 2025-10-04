@@ -36,13 +36,13 @@ Users can:
 
 ##  🔮 Future Enhancements 
 
-GUI version with visual city map
+- GUI version with visual city map
 
-More themes and personalization options
+- More themes and personalization options
 
-Save user's journey or favorite paths
+- Save user's journey or favorite paths
 
-Web or mobile app adaptation
+- Web or mobile app adaptation
 
 ## 🛠️ Prerequisites
 
@@ -57,7 +57,7 @@ Web or mobile app adaptation
 git clone https://github.com/yourusername/feminine-city-navigation.git
 cd feminine-city-navigation
 
-2. Run the application:
+**2. Run the application:** 
 python city_navigation.py
 
 ---
