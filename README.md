@@ -38,20 +38,20 @@ Users can:
 
 Python 3.6 or higher
 
-## ⚡ Installation
-
-1. Clone the repository:
-```bash
+⚡ Installation
+Clone the repository:
 git clone https://github.com/yourusername/feminine-city-navigation.git
 cd feminine-city-navigation
+
 Run the application:
 
-bash
+```bash
 python city_navigation.py
-## 🔮 Future Enhancements
+🔮 Future Enhancements
+GUI version with visual city map
 
-- GUI version with visual city map
-- More themes and personalization options  
-- Save user's journey or favorite paths
-- Web or mobile app adaptation
-   
+More themes and personalization options
+
+Save user's journey or favorite paths
+
+Web or mobile app adaptation 
