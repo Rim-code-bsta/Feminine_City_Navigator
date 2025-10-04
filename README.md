@@ -56,10 +56,8 @@ Web or mobile app adaptation
 ```bash
 git clone https://github.com/yourusername/feminine-city-navigation.git
 cd feminine-city-navigation
-2. Run the application:
 
-bash
-Copier le code
+2. Run the application:
 python city_navigation.py
 
 ---
