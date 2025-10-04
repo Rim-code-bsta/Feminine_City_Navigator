@@ -34,6 +34,16 @@ Users can:
 💡 Yoga Studio — Relax and give your God-given body a break 🧘‍♀️🌿  
 💡 Flower Shop — Beautiful roses waiting just for you 🌹💐  
 
+##  🔮 Future Enhancements 
+
+GUI version with visual city map
+
+More themes and personalization options
+
+Save user's journey or favorite paths
+
+Web or mobile app adaptation
+
 ## 🛠️ Prerequisites
 
 - Python 3.6 or higher  
@@ -51,15 +61,5 @@ cd feminine-city-navigation
 bash
 Copier le code
 python city_navigation.py
-🔮 Future Enhancements
-GUI version with visual city map
-
-More themes and personalization options
-
-Save user's journey or favorite paths
-
-Web or mobile app adaptation
-
-
 
 ---
