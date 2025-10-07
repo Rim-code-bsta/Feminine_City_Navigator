@@ -27,12 +27,11 @@ Users can:
 - 🌸 **Dynamic city management** (add/remove locations & connections)
 - 🌸 **Safe, empowering, and thematic user experience**
 
-## 🎯 Demo Example
+## 📸 Screenshots
 
-✨ DFS Path:  
-💡 Home — Your cozy home, when the world quietens and you can finally hear yourself 🏡✨  
-💡 Yoga Studio — Relax and give your God-given body a break 🧘‍♀️🌿  
-💡 Flower Shop — Beautiful roses waiting just for you 🌹💐  
+![Program Welcome Screen](images/output_want_to_continue.png)
+![Add/Remove Feature](images/output_add_and_remove.png) 
+"Add screenshots to README"
 
 ##  🔮 Future Enhancements 
 
